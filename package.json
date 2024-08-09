@@ -2,7 +2,7 @@
   "name": "display-git-user",
   "displayName": "Display Git User",
   "description": "Display git user.name in Status Bar.",
-  "publisher": "Techton",
+  "publisher": "Lechton",
   "version": "0.0.1",
   "icon": "img/icon.png",
   "engines": {
