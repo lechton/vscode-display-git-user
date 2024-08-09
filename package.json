@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "categories": [
-    "Other"
+    "SCM Providers"
   ],
   "activationEvents": [
     "onStartupFinished",
