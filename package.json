@@ -1,7 +1,7 @@
 {
   "name": "display-git-user",
   "displayName": "Display Git User",
-  "description": "Display git user in Status Bar. It detects local user and in its absence if fallbacks to global user.",
+  "description": "Display git user.name in Status Bar.",
   "publisher": "Techton",
   "version": "0.0.1",
   "icon": "img/icon.png",
