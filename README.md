@@ -1,4 +1,7 @@
-# Git User Status Bar Extension
+# Display Git User (VSCode Extension)
+
+*Displays git user.name in Status Bar of VSCode.*
+
 
 ## Overview
 
