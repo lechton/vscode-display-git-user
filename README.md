@@ -2,6 +2,7 @@
 
 *Displays git user.name in Status Bar of VSCode.*
 
+![Preview of VSCode Extension](img/preview.png)
 
 ## Overview
 
